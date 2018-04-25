@@ -9,8 +9,6 @@
 
 [Windows 10](https://www.microsoft.com/en-us/software-download/windows10)(Build 1709 or later).
 
-[Unity](https://unity3d.com/) v2017.1 or later.
-
 [Visual Studio](https://www.visualstudio.com/) 2015 or later.
 
 # Developing for Windows Mixed Reality on HoloLens
@@ -20,6 +18,8 @@
 [Using the Windows Device Portal](https://developer.microsoft.com/en-us/windows/mixed-reality/using_the_windows_device_portal)
 
 [Device portal API reference ](https://developer.microsoft.com/en-us/windows/mixed-reality/device_portal_api_reference)
+
+# APIs for Discord 
 
 [Discord Developer Documentation](https://discordapp.com/developers/docs/intro)
 
