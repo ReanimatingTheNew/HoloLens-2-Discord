@@ -3,8 +3,19 @@
 ![discord-hololens](https://user-images.githubusercontent.com/18353476/35661167-39054d8c-06c5-11e8-95c4-e300958b2b64.jpg)
 ![hololens](https://user-images.githubusercontent.com/18353476/38452317-adefc5f0-39f6-11e8-84fd-9dbc2c9d16da.gif)
 
+# Requirements:
 
-[Microsoft HoloLens website](https://www.microsoft.com/en-us/hololens)
+[HoloLens headset](https://www.microsoft.com/en-us/hololens)
+
+[Windows 10](https://www.microsoft.com/en-us/software-download/windows10)(Build 1709 or later).
+
+[Unity](https://unity3d.com/) v2017.1 or later.
+
+[Visual Studio](https://www.visualstudio.com/) 2015 or later.
+
+# Developing for Windows Mixed Reality on HoloLens
+
+[Windows Mixed Reality Dev Center](https://developer.microsoft.com/en-us/windows/mixed-reality)
 
 [Using the Windows Device Portal](https://developer.microsoft.com/en-us/windows/mixed-reality/using_the_windows_device_portal)
 
