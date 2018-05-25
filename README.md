@@ -9,11 +9,19 @@
 
 [Windows 10](https://www.microsoft.com/en-us/software-download/windows10)(Build 1709 or later).
 
+[Unity 2017.3 or later](https://unity3d.com/)
+
 [Visual Studio](https://www.visualstudio.com/) 2015 or later.
 
 # Developing for Windows Mixed Reality on HoloLens
 
-[Windows Mixed Reality Dev Center](https://developer.microsoft.com/en-us/windows/mixed-reality)
+[Mixed Reality Install Tools](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
+
+[Microsoft Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit)
+
+[Mixed Reality Academy](https://docs.microsoft.com/en-us/windows/mixed-reality/academy)
+
+[Windows Dev Center for Mixed Reality](https://developer.microsoft.com/en-us/windows/mixed-reality/)
 
 [Using the Windows Device Portal](https://developer.microsoft.com/en-us/windows/mixed-reality/using_the_windows_device_portal)
 
